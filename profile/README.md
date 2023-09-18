@@ -74,7 +74,7 @@ Docker containers and AWS Fargate.
 
 ### Monitoring
 
-* **[foursight](https://github.com/4dn-dcic/foursight)** - Tools for monitoring and periodic service actions
+* **[foursight](https://github.com/4dn-dcic/foursight)** - Tools for monitoring and periodic service actions.
 * [foursight-core](https://github.com/4dn-dcic/foursight-core) - Core software supporting Foursight.
 
 ### Applications
@@ -83,5 +83,6 @@ Docker containers and AWS Fargate.
 
 ## Administrative
 
+* [4DN Policies](https://github.com/4dn-dcic/4dn-policies) - NIH Common Fund 4D Nucleome Network Policies.
 * [Governance](https://github.com/4dn-dcic/fourfront-governance) - Repository of governance, legal and policy information for our projects.
 * [Legal Notices](https://data.4dnucleome.org/legal) - Legal notices for portal users.
